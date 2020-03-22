@@ -1,0 +1,28 @@
+= Hubject Charing Stations REST API Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+.request
+include::{snippets}/PersistStations/http-request.adoc[]
+
+.response
+include::{snippets}/PersistStations/http-response.adoc[]
+
+.request
+include::{snippets}/QueryByID/http-request.adoc[]
+
+.response
+include::{snippets}/QueryByID/http-response.adoc[]
+
+.request
+include::{snippets}/QueryByPostalCode/http-request.adoc[]
+
+.response
+include::{snippets}/QueryByPostalCode/http-response.adoc[]
+
+.request
+include::{snippets}/QueryByLocation/http-request.adoc[]
+
+.response
+include::{snippets}/QueryByLocation/http-response.adoc[]
+
